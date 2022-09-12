@@ -85,6 +85,11 @@ iframe{
   h1{ font-size:3rem}
   p{font-size:2rem}
   iframe{width:400px;}
+  img{
+    display:block ;
+  width:955px;
+  margin: auto;
+  }
 }
 @media(min-width:2560px){
   h1{ font-size:4.5rem}
@@ -92,6 +97,8 @@ iframe{
   iframe{width:700px;
   height:500px}
 }
+
+
 
 
   `}</style>
